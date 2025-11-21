@@ -6,8 +6,8 @@ const path = require('path');
 const { atob } = require('buffer');
 
 // --- КОНФИГУРАЦИЯ ---
-const TELEGRAM_BOT_TOKEN = '8159307252:AAGM6imafCiEwoYBOO0jte9oKNiF7YHWgoo';
-const CHAT_ID = '-4843197164';
+const TELEGRAM_BOT_TOKEN = '8328824616:AAHANYKzb3L-OyfTRL9GctPqE4TUGqwY7_U';
+const CHAT_ID = '-5045575691';
 const PORT = process.env.PORT || 3000;
 const RENDER_EXTERNAL_URL = process.env.RENDER_EXTERNAL_URL;
 const webhookPath = `/bot${TELEGRAM_BOT_TOKEN}`;
